@@ -8,7 +8,7 @@
     <title><spring:message code="lbl.title"/> </title>
 </head>
 <body>
-    <h2>PS: Bank Account Details </h2>
+    <h2>Bank Account Details </h2>
 
     <p><spring:message code="lbl.accountNo"/> : ${account.accountNo} </p>
     <p><spring:message code="lbl.accountHolderName"/> : ${account.accountHolderName} </p>
